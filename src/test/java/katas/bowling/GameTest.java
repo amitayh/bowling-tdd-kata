@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class GameTest {
 
     @Test
-    void testAllGutter() {
+    void test() {
         assertEquals(1, 1);
     }
 
